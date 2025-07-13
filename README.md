@@ -1,4 +1,4 @@
-# Dice Simulator Dungeons & Dragons Style
+# Dice Simulator Dungeons & Dragons style dice rolls
 A modular C++ program that simulates Dungeons and Dragons style dice rolls using object-oriented design.
 
 ---
