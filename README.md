@@ -35,11 +35,11 @@ Check out the **Java version of this project**:
 
 ```
 /dice-simulator-dnd
-    ├── Die.h          # Die class specification (header)
-    ├── Die.cpp        # Die class implementation
-    ├── main.cpp       # Program simulation logic
-    ├── .gitignore     # Git ignore rules
-    └── README.md      # Project documentation
+  ├── Die.h          # Die class specification (header)
+  ├── Die.cpp        # Die class implementation
+  ├── main.cpp       # Program simulation logic
+  ├── .gitignore     # Git ignore rules
+  └── README.md      # Project documentation
 ```
 
 ---
