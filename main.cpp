@@ -15,7 +15,7 @@ int main()
     // Display the initial state of the dice.
     cout << "This simulates the rolling of a "
         << die1.getSides() << " sided die and a "
-        << die2.getSides() << "sided die.\n";
+        << die2.getSides() << " sided die.\n";
     cout << "Initial value of the dice:\n";
     cout << die1.getValue() << " "
         << die2.getValue() << endl;

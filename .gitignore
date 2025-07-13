@@ -1,3 +1,6 @@
+# CLion IDE configuration directory
+.idea/
+
 # Prerequisites
 *.d
 
