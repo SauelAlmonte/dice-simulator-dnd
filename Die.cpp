@@ -11,7 +11,7 @@ using namespace std;
 Die::Die(int numSides)
 {
     // Get the system time.
-    unsigned seed = time(0);
+    unsigned seed = time(nullptr);
 
     // Seed the random number generator.
     srand(seed);
@@ -30,7 +30,7 @@ void Die::roll()
 {
 
     // Constant for the minimum die value.
-    const int MIN_VALUE = 1; // Minimum die value.
+    constexpr int MIN_VALUE = 1; // Minimum die value.
 
     // Get a random value for the die.
     value = (rand() % (sides - MIN_VALUE + 1)) + MIN_VALUE;
@@ -39,7 +39,7 @@ void Die::roll()
 /*
  * The getSides member function returns the number of this die.
  */
-int Die::getSides()
+int Die::getSides() const
 {
     return sides;
 }
@@ -47,7 +47,7 @@ int Die::getSides()
 /*
  * The getValue member function returns the die's value.
  */
-int Die::getValue()
+int Die::getValue() const
 {
     return value;
 }

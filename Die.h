@@ -4,13 +4,13 @@
 class Die
 {
     private:
-        int sides;      // Number of Sides.
-        int value;      // The die's value.
+        int sides;              // Number of Sides.
+        int value{};              // The die's value.
     public:
-        Die(int = 6);   // Constructor.
-        void roll();    // Rolls the die.
-        int getSides(); // Returns the number of sides.
-        int getValue(); // Returns the die's value
+        explicit Die(int = 6);  // Constructor.
+        void roll();            // Rolls the die.
+        int getSides() const;         // Returns the number of sides.
+        int getValue() const;         // Returns the die's value
 
 };
 #endif
