@@ -10,7 +10,7 @@ A modular C++ program that simulates Dungeons and Dragons style dice rolls using
 
 ---
 
-### Also Available In
+### Also, Available In
 
 Check out the **Java version of this project**:  
 [Dice Simulator Dungeons & Dragons Style (Java)](https://github.com/yourusername/java-dice-simulator-dnd)
