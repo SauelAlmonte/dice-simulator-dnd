@@ -6,7 +6,8 @@ A modular C++ program that simulates Dungeons and Dragons style dice rolls using
 ### Author
 
 **Sauel Almonte**  
-[LinkedIn Profile](https://www.linkedin.com/in/sauel-almonte)
+[LinkedIn Profile](https://www.linkedin.com/in/sauel-almonte)  
+[My Portfolio](https://s-almonte.vercel.app/)
 
 ---
 
@@ -110,10 +111,27 @@ Rolling the dice 5 times.
 
 ## License
 
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this software with proper attribution.
+This project is licensed under the [MIT License](LICENSE).  
+Copyright (c) 2025 Salmonte
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
 ### Disclaimer
-This project is provided **"as is"** without any warranties or guarantees of any kind, either express or implied.  
-The author is not responsible for any damages or issues that may arise from using or modifying this code.  
-Use at your own discretion.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
